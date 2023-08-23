@@ -1,0 +1,5 @@
+one-of-its-kind
+Name: Achal Pratap Singh
+Skills: HTML, CSS, JavaScript, React, Git, Node, Express, SQL, MongoDb
+Email: achalpratapsingh1220@gmail.com
+/one-of-its-kind
